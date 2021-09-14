@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 age = input("Quel age avez-vous ? ")
 age_int=int(age)
 if age_int < 18:
